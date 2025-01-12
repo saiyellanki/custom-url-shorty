@@ -1,2 +1,3 @@
 # custom-url-shorty
-This is free custom URL shortner with security by design and analytics. I am calling it Linky! ❤
+This is free custom URL shortner with security by design and analytics. I am calling it Linky! 
+Built with ❤ by Sai Yellanki
